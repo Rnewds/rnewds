@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/rnewd/sahil.py",
+    "postStartCommand": "python3 /workspaces/rnewds/sahil.py",
     "customizations": {
         "vscode": {
             "settings": {
